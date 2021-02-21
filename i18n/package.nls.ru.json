@@ -1,0 +1,18 @@
+{
+    "hoi4modutilities.category": "HOI4 Mod Utilities",
+    "hoi4modutilities.dds.editorName": "Предварительный просмотр DDS",
+    "hoi4modutilities.tga.editorName": "Предварительный просмотр TGA",
+    "hoi4modutilities.displayName": "HOI4 Mod Utilities",
+    "hoi4modutilities.featureFlags.title": "Флаги для функций",
+    "hoi4modutilities.featureFlags.desc": "Флаги для функций используются для отключения или включения функций. После изменения этого параметра требуется перезагрузка. Пожалуйста, обратитесь к Wiki на Github за подробностями.",
+    "hoi4modutilities.installPath.title": "Путь установки",
+    "hoi4modutilities.installPath.desc": "Путь, где установлена Hearts of Iron IV.",
+    "hoi4modutilities.loadDlcContents.title": "Загрузить содержимое DLC",
+    "hoi4modutilities.loadDlcContents.desc": "Следует ли загружать изображения DLC при предварительном просмотре файлов? Включение этого будет использовать больше памяти, используйте с острожностью.",
+    "hoi4modutilities.modFile.title": "Рабочий файл мода",
+    "hoi4modutilities.modFile.desc": "Путь к рабочему файлу .mod. Этот файл используется для чтения replace_path. Если не указано, будет использоваться первый файл .mod в первой папке рабочей области.",
+    "hoi4modutilities.preview.title": "Предварительный просмотр файла HOI4",
+    "hoi4modutilities.previewworld.title": "Предварительный просмотр карты мира",
+    "hoi4modutilities.scanreferences.title": "Scan References",
+    "hoi4modutilities.selectmodfile.title": "Выберите файл мода"
+}
